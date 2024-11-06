@@ -5,6 +5,10 @@ plugins {
     id "dev.flutter.flutter-gradle-plugin"
 }
 
+def keystorePropertiesFile = rootProject.file("key.properties")
+def keystoreProperties = new Properties()
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
 android {
     namespace = "com.yuanpeng.starfishapp.flutter_starfish"
     compileSdk = flutter.compileSdkVersion
