@@ -96,7 +96,7 @@ class _WebViewWidgetState extends State<WebViewWidget> {
               webViewController.loadData(data: widget.loadResource);
             } else if (widget.webViewType == WebViewType.URL) {
               webViewController.loadUrl(
-                  urlRequest: URLRequest(url: Uri.parse(widget.loadResource)));
+                  urlRequest: URLRequest(url: WebUri.uri(Uri.parse(widget.loadResource))));
             }
           } else {
             widget.onWebViewCreated?.call(controller);

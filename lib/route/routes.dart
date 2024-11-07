@@ -55,7 +55,7 @@ class Routes {
         return pageRoute(SettingsPage(), settings: settings);
     //扫码页面
       case RoutePath.scanPage:
-        return pageRoute(ScanPage(), settings: settings);
+        // return pageRoute(ScanPage(), settings: settings);
     //消息通知页面
       case RoutePath.messagePage:
         return pageRoute(MessagePage(), settings: settings);

@@ -50,7 +50,7 @@ dependencies:
   # 图片缓存加载
   cached_network_image: ^3.4.1
   # webview：基于原生webview封装的
-  flutter_inappwebview: ^5.8.0
+  flutter_inappwebview: ^6.0.0
   # 显示html文本内容的组件
   flutter_html: ^3.0.0-alpha.6
   # 下拉刷新上拉加载

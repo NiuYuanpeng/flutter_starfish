@@ -23,25 +23,19 @@ Android组件化项目ReadingGallery链接(jetpack+kotlin+koin+couroutine)：htt
 Android组件化项目初始化工具ApplicationInit链接(gradle-plugin+注解APT+ASM)：https://github.com/WinWang/ApplicationInit
 
 ## android下载地址
-[演示app下载地址](https://www.pgyer.com/gJjTehFC)
+[演示app下载地址](https://www.pgyer.com/star_fish)
 
 ## 项目演示图片
 
-首页
 
 <img src="https://github.com/NiuYuanpeng/flutter_starfish/tree/main/assets/snapshots/home.png" width="210px">
-房源
 
 <img src="https://github.com/NiuYuanpeng/flutter_starfish/tree/main/assets/snapshots/house_res.png" width="210px">
 
-资讯
 
 <img src="https://github.com/NiuYuanpeng/flutter_starfish/tree/main/assets/snapshots/news.png" width="210px">
 
-我的
 
 <img src="https://github.com/NiuYuanpeng/flutter_starfish/tree/main/assets/snapshots/me.png" width="210px">
-
-我的收藏
 
 <img src="https://github.com/NiuYuanpeng/flutter_starfish/tree/main/assets/snapshots/login.png" width="210px">
